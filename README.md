@@ -1,5 +1,3 @@
-<img width="1404" height="396" alt="Confusion_MatrixIRIS" src="https://github.com/user-attachments/assets/59d8419f-0b96-4e4e-ab7f-9d5f0fe97a37" />
-<img width="1115" height="1025" alt="PAIRPLOTS_IRIS" src="https://github.com/user-attachments/assets/1fbe3034-3dc5-4cba-8daa-aa35d0fcfbe4" />
 # OIBSIP-DataScience-Task1-IrisFlowerClassification-
 🌸 Iris Flower Classification
 Track: Data Science Internship: Oasis Infobyte Task: Task 1 — Iris Flower Classification
@@ -67,5 +65,6 @@ No additional data downloads required — the dataset is loaded directly from sc
 
 Author
 Christina Sebueng Data Science Track — Oasis Infobyte Internship
-
+<img width="1404" height="396" alt="Confusion_MatrixIRIS" src="https://github.com/user-attachments/assets/59d8419f-0b96-4e4e-ab7f-9d5f0fe97a37" />
+<img width="1115" height="1025" alt="PAIRPLOTS_IRIS" src="https://github.com/user-attachments/assets/1fbe3034-3dc5-4cba-8daa-aa35d0fcfbe4" />
 
