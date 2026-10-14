@@ -6,12 +6,11 @@ Overview
 This project builds and evaluates machine learning classification models to identify the species of an iris flower — Setosa, Versicolor, or Virginica — based on four physical measurements: sepal length, sepal width, petal length, and petal width.
 
 Dataset
-Source: Built into scikit-learn (sklearn.datasets.load_iris()) — no external download required
+Source: Built into scikit-learn (sklearn.datasets.load_iris())
 Samples: 150 (50 per class)
 Features: 4 continuous numerical features (measurements in cm)
 Classes: Setosa, Versicolor, Virginica
 Missing values: None
-Tech Stack
 Python 3
 Jupyter Notebook
 pandas
